@@ -1,0 +1,24 @@
+Evalucion : 3 pruebas + proyecto final = Nota para el Certificado
+
+KIT: PIC18F4550 + Pikick3 o Pickit4
+
+https://www.microchip.com/en-us/tools-resources/archives/mplab-ecosystem
+MplabXIDE : 5.35 MPASM | (6.01 + xc8) PICAS
+proteus : 8.13 https://youtu.be/LR4CJTZoZr8
+
+Materiales:
+-PIC18F4550 
+-Pickit3
+-Cristal 20MHZ + 22pFx2
+-4LEDS  + 330ohmm
+-3pulsadores +10K
+-7segmentos nomral K , A
+-7segmentos 4 digitas , 4 2n222a
+-LCD + POTEN10K, SENSOR PIR
+-kEYPAD
+-FTDI
+-4 POTEN
+-SENSOR ULTRADONIDO
+-TB6612FNG driver motor dc
+-PCF8674 // SI SOBRA TIEMPO MPU6050
+-MAX6675.
